@@ -13,13 +13,6 @@ DailyDialogs is an iOS app designed to help users master English through real-li
 - **Bookmarking System**: Save favorite dialogues and terms for quick access
 - **Dark Mode Support**: Comfortable learning experience in any lighting condition
 
-## Premium Features
-
-✓ Unlimited access to all dialogues
-✓ AI-generated custom scenarios
-✓ Offline mode
-✓ Ad-free experience
-
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
