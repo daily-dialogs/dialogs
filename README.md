@@ -2,7 +2,7 @@
 
 DailyDialogs is an iOS app designed to help users master English through real-life conversations. Whether you're preparing for job interviews, apartment hunting, doctor visits, or ordering food, DailyDialogs provides natural, practical dialogues for everyday situations.
 
-![App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9)
+[![App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9)](https://apps.apple.com/app/id6738009465)
 
 ## Features
 
