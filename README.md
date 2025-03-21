@@ -48,7 +48,3 @@ For general questions, [open a support request](https://github.com/daily-dialogs
 ## License
 
 © 2025 DailyDialogs. All rights reserved.
-
-## Contact
-
-For support or inquiries, please visit our [support section](#support) or reach out through the App Store listing.
