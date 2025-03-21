@@ -30,10 +30,6 @@ DailyDialogs is an iOS app designed to help users master English through real-li
     <img src="Resources/screenshot5.png" alt="Enjoy learning with dark mode" width="150">
 </div>
 
-## Installation
-
-DailyDialogs is available on the iOS App Store. Download it [here](https://apps.apple.com/de/app/alienated/id6737745251).
-
 ## Support
 
 ### Report Issues
