@@ -15,10 +15,10 @@ DailyDialogs is an iOS app designed to help users master English through real-li
 
 ## Premium Features
 
-- ✓ Unlimited access to all dialogues
-- ✓ AI-generated custom scenarios
-- ✓ Offline mode
-- ✓ Ad-free experience
+✓ Unlimited access to all dialogues
+✓ AI-generated custom scenarios
+✓ Offline mode
+✓ Ad-free experience
 
 ## Screenshots
 
